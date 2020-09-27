@@ -1,0 +1,78 @@
+.blackbox_1 {
+	width: 100%;
+	height: 75%;
+	background-color: black}
+
+.skyblue {
+	width: 25%; 
+	height: 28%;
+	background-color: skyblue;
+	top: 0;
+	left: 0;
+	position: absolute;}
+
+.white_1 {
+	width: 25%;
+	height: calc(45% - 100px);
+	background-color: white;
+	bottom: calc(25% + 50px);
+	left: 0;
+	position: absolute;
+}
+
+.red {
+	width: calc(75% - 50px);
+	height: calc(75% - 50px);
+	background-color: red;
+	top: 0;
+	right: 0;
+	position: absolute;}
+
+.blackbox_2 {
+	width: 100%;
+	height: 25%;
+	background-color: black;
+}
+
+.blue {
+	width: 25%;
+	height: 25%;
+	background-color: blue;
+	top: 75%;
+	left: 0;
+	position: absolute;
+}
+
+.white_2 {
+	width: 59%;
+	height: 25%;
+	background-color: white;
+	bottom: 0;
+	left: calc(25% + 50px);
+	position: absolute;
+}
+
+.white_3 {
+	width: calc(13% - 50px);
+	height: calc((25% - 50px) / 2);
+	background-color: white;
+	top: 75%;
+	right: 0;
+	position: absolute;
+}
+
+.yellow {
+	width: calc(13% - 50px);
+	height: calc((25% - 50px) / 2);
+	background-color: yellow;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+
+
+
+
+
+
+
+
